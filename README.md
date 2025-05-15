@@ -46,7 +46,7 @@ Ejercicios prácticos sobre Angular.
 
 ## Proyectos destacados en Videojuegos
 
-- Keduc: Juego educativo multijugador con sistema de lobby. TFG con matricula de honor.
+- Keduc: Juego educativo multijugador con sistema de lobby. TFG con matrícula de honor.
 - Slide and Smash: Proyecto presentado en el Guerrilla Games Festival.
 - Proyecto de Realidad Virtual: Interacciones VR con XR Toolkit en Unity.
 
