@@ -14,42 +14,41 @@ Soy desarrollador full stack con formación en videojuegos y desarrollo web. Me 
 
 ## Stack técnico
 
-**Frontend:** HTML, CSS, JavaScript, React, React-Native, Angular
-**Backend:** PHP, Python (Django, Flask, Fast API), JavaScript (Node.js)
-**Bases Datos:** MySQL, MongoDB
-**Videojuegos:** Unity
-**Otros:** Git, GitHub, Trello
+- **Frontend:** HTML, CSS, JavaScript, React, React-Native, Angular
+- **Backend:** PHP, Python (Django, Flask, Fast API), JavaScript (Node.js)
+- **Bases Datos:** MySQL, MongoDB
+- **Videojuegos:** Unity
+- **Otros:** Git, GitHub, Trello
 
 
 ## Proyectos destacados en FullStack
 
-### [movie-app-ssr](https://github.com/DanielCaldes/movie-app-ssr)  
+### [Movie-app](https://github.com/DanielCaldes/movie-app-ssr)  
 Aplicación de películas con renderizado del lado del servidor.  
 **Tecnologías:** JavaScript, React, Next.js 
 
-### [movie-app-spa](https://github.com/DanielCaldes/movie-app-spa)  
-Aplicación de películas en formato SPA (Single Page Application).  
-**Tecnologías:** JavaScript, React
-
-### [Micromecenazgo](https://github.com/DanielCaldes/Micromecenazgo)  
-Plataforma de micromecenazgo para proyectos creativos.  
-**Tecnologías:** JavaScript, HTML, CSS 
-
-### [Django-Avanzado](https://github.com/DanielCaldes/Django-Avanzado)  
-Proyecto avanzado utilizando el framework Django.  
-**Tecnologías:** Python, Django  
-
-### [angular-basic-concepts](https://github.com/DanielCaldes/angular-basic-concepts)  
-Ejercicios prácticos sobre Angular.  
+### [Shopnest](https://github.com/DanielCaldes/shopnest)  
+Aplicación de tienda online e‑commerce.  
 **Tecnologías:** TypeScript, Angular
 
+### [Micromecenazgo](https://github.com/DanielCaldes/Micromecenazgo)  
+Plataforma de micromecenazgo para un videojuego.  
+**Tecnologías:** JavaScript, HTML, CSS 
 
-## Proyectos destacados en Videojuegos
+### [API Music Preferences](https://github.com/DanielCaldes/APIs-REST)  
+Proyecto de creación de API para gestionar gustos musicales haciendo uso de la API de Spotify.  
+**Tecnologías:** Python, FastAPI
+
+### [API Course Manager](https://github.com/DanielCaldes/Django-Avanzado)  
+Proyecto de creación de API de gestión de cursos utilizando el framework Django.  
+**Tecnologías:** Python, Django 
+
+## Proyectos destacados en Videojuegos 
 
 - Keduc: Juego educativo multijugador con sistema de lobby. TFG con matrícula de honor.
 - Slide and Smash: Proyecto presentado en el Guerrilla Games Festival.
-- Proyecto de Realidad Virtual: Interacciones VR con XR Toolkit en Unity.
-
+- Proyecto de Realidad Virtual: Interacciones VR con XR Toolkit en Unity.<br>
+[Mas información](https://site14674212.nicepage.io/)
 
 ## Contacto
 
