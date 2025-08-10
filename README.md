@@ -55,7 +55,7 @@ Proyecto de creación y despliegue de API para conectar usuarios estilo Tinder.
 Aplicación de calculadora para dispositivos móviles y web.  
 **Tecnologías:** Javascript, React Native, Expo. 
 
-### [Aplicación del tiempo nativa](https://snack.expo.dev/@dacaldes/calculator)
+### [Aplicación del tiempo nativa](https://snack.expo.dev/@dacaldes/app-tiempo)
 Aplicación del tiempo para dispositivos móviles y web.  
 **Tecnologías:** Javascript, React Native, Expo. 
 
