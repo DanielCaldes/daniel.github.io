@@ -14,7 +14,7 @@ Soy desarrollador full stack con formación en videojuegos y desarrollo web. Me 
 
 ## Stack técnico
 
-- **Frontend:** HTML, CSS, JavaScript, React, React-Native, Angular
+- **Frontend:** HTML, CSS, JavaScript, React, React-Native (Expo), Angular
 - **Backend:** PHP, Python (Django, Flask, Fast API), JavaScript (Node.js)
 - **Bases Datos:** MySQL, MongoDB
 - **Videojuegos:** Unity
@@ -42,6 +42,22 @@ Proyecto de creación de API para gestionar gustos musicales haciendo uso de la 
 ### [API Course Manager](https://github.com/DanielCaldes/Django-Avanzado)  
 Proyecto de creación de API de gestión de cursos utilizando el framework Django.  
 **Tecnologías:** Python, Django 
+
+### [API To-Do App](https://github.com/DanielCaldes/LibreriasBackendNodeJs)
+Proyecto de creación de API para gestión de tareas.  
+**Tecnologías:** Javascript, Express.
+
+### [API PairUp](https://github.com/DanielCaldes/SeguridadPruebasDespliegue)
+Proyecto de creación y despliegue de API para conectar usuarios estilo Tinder.  
+**Tecnologías:** Javascript, NodeJs, Express, Docker y DigitalOcean. 
+
+### [Calculadora nativa](https://snack.expo.dev/@dacaldes/calculator)
+Aplicación de calculadora para dispositivos móviles y web.  
+**Tecnologías:** Javascript, React Native, Expo. 
+
+### [Aplicación del tiempo nativa](https://snack.expo.dev/@dacaldes/calculator)
+Aplicación del tiempo para dispositivos móviles y web.  
+**Tecnologías:** Javascript, React Native, Expo. 
 
 ## Proyectos destacados en Videojuegos 
 
